@@ -12,8 +12,11 @@ Code 1 refers to the Bayesian method that is used to obtain the posterior model 
 
 Code 2 solves the non-linear least squares problem for model parameters using the Levenberg-Marquardt method.
 
-The codes specify the model's definitions.
+More explanations are mentioned inside the code file. 
 
-For a more detailed welcome, contact Mohmmed9850@gmail.com.
+The user can run different codes separately or combine them for better parameter estimation.
 
+for any questions about the codes. You are welcome to contact me at mohmmed9850@gmail.com.
+
+    thank you 
 
